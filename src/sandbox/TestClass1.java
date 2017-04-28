@@ -11,4 +11,8 @@ public class TestClass1 {
     public void addMethod() {
     	System.out.println("New Git method");
     }
+    
+    public void addAnotherMethod() {
+    	System.out.println("Another new Git method");
+    }
 }
