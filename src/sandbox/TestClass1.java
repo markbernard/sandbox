@@ -9,6 +9,7 @@ public class TestClass1 {
         System.out.println("Another remote change");
         System.out.println("One more local change");
         System.out.println("One more remote change");
+        System.out.println("Remote change");
     }
     
     public void addMethod() {
