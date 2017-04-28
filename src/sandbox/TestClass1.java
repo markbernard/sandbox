@@ -5,6 +5,7 @@ public class TestClass1 {
         System.out.println("Testing Git");
         System.out.println("Some changes");
         System.out.println("Other change");
+        System.out.println("Remote change");
     }
     
     public void addMethod() {
