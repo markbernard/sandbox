@@ -6,4 +6,8 @@ public class TestClass1 {
         System.out.println("Some changes");
         System.out.println("Other change");
     }
+    
+    public void addMethod() {
+    	System.out.println("New Git method");
+    }
 }
