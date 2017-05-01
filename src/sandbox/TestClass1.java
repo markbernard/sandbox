@@ -5,5 +5,6 @@ public class TestClass1 {
         System.out.println("Testing Git");
         System.out.println("Some changes");
         System.out.println("Another change");
+        System.out.println("One more time");
     }
 }
